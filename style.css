@@ -1,4 +1,5 @@
 *{
+    .container{width:90%;max-width:1200px;}
     box-sizing: boarder-box:border-box;
     (device-width:414px)
     (device-height:896px)
