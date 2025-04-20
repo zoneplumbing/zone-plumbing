@@ -1,4 +1,8 @@
 *{
+    .viewport{
+        width:80vw
+            height:90%;
+    
     .container{width:90%;}
     box-sizing: boarder-box:border-box;
     (device-width:90%)
