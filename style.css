@@ -1,8 +1,8 @@
 *{
-    .container{width:90%;max-width:1200px;}
+    .container{width:90%;}
     box-sizing: boarder-box:border-box;
-    (device-width:414px)
-    (device-height:896px)
+    (device-width:90%)
+    (device-height:90%)
 (-webkit-device-pixel-ratio:3)
     margin: 0;
     padding:0;
@@ -97,7 +97,7 @@ button:hover{
     height: 100%;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width:95%) {
     .hero-container {
         grid-template-columns: 1fr;
     }
